@@ -9,19 +9,14 @@ import IMG from '../../assets/logo.png'
     )
 }*/}
 
-export default function Auth() {
+export default function Auth({ children}) {
     return (
         <div className="auth">
             <div className='auth-back'>
             </div>
             
             <div className='auth-container'>
-                <div className='info'>
-
-                </div>
-                <div className='message'>
-                    
-                </div>
+                {children}
             </div>
             <div className='auth-logo'>
                 <img src={IMG} alt="logo" />
