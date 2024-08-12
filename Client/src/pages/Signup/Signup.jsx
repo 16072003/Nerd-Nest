@@ -1,26 +1,42 @@
-import Auth from '../../components/Auth/Auth'
+import Auth from '../../components/Auth/Auth';
+import axios from "axios";
+import { useState } from 'react';
 export default function Signup() {
+    const [values, setValues] = useState({
+        firstname: '',
+        lastname: '',
+        email: '',
+        phone: '',
+        gender:'',
+        password: ''
+    })
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        axios.post('http://localhost:3000/signin', values)
+        .then(result => console.log(result))
+        .catch(err => console.log(err))
+    }
+    
     return <div><Auth> <div className='info'>
         <div className='infocontent'>
             <h1 id='heading'>Sign Up</h1>
-            <div className='signUpForm'>
+            <form onSubmit={handleSubmit} className='signUpForm'>
                 <div className='signUpInput'>
-                    <input type='text' id="firstname" placeholder='first name'></input> 
-                    <input type='text' id="lastname" placeholder='last name'></input> 
+                    <input type='text' id="firstname" placeholder='first name' onChange={(e) => setValues({ ...values, firstname: e.target.value})}></input> 
+                    <input type='text' id="lastname" placeholder='last name' onChange={(e) => setValues({ ...values, lastname: e.target.value})}></input> 
                 </div>
-                <input type="email" id="email" placeholder='Enter e-mail'></input>
+                <input type="email" id="email" placeholder='Enter e-mail' onChange={(e) => setValues({ ...values, email: e.target.value})}></input>
                 <div className='signUpInput'>
-                    <input type="number" id="phone" placeholder='Enter Phone No.'></input> 
-                    <input type='text' id="gender" placeholder='Enter gender'></input> 
+                    <input type='text' id="phone" placeholder='Enter Phone No.' onChange={(e) => setValues({ ...values, phone: e.target.value})}></input> 
+                    <input type='text' id="gender" placeholder='Enter gender' onChange={(e) => setValues({ ...values, gender: e.target.value})}></input> 
                 </div> 
-                <input type='password' id="password" placeholder='Enter password'></input>
+                <input type='password' id="password" placeholder='Enter password' onChange={(e) => setValues({ ...values, password: e.target.value})}></input>
                 <div className='buttonSignin'>
-                    <button id='signin'>SIGN UP</button> 
+                    <button type='submit' id='signin'>SIGN UP</button> 
                 </div>
-            </div>
-            
+            </form>   
         </div>
-
         </div>
         <div className='message'>
             <div id='msghead'>

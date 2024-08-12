@@ -1,5 +1,6 @@
-import Auth from '../../components/Auth/Auth'
-import axios from 'axios'
+import Auth from '../../components/Auth/Auth';
+import axios from "axios";
+import { useState } from 'react';
 const Signin = () => {
     const [values, setValues] = useState({
         email: '',
@@ -19,11 +20,11 @@ const Signin = () => {
                 <div className='info'>
                     <div className='infocontent'>
                         <h1 id='heading'>Sign In</h1>
-                        <form onSubmit={handleSubmit}>
-                            <input type='text' id="inputSignIn" placeholder='Email' onChange={(e) => setUsername({ ...values, email: e.target.value})}></input> 
-                            <input type='password' id="inputSignIn" placeholder='Password' onChange={(e) => setUsername({ ...values, password: e.target.value})}></input>
+                        <form onSubmit={handleSubmit} className='infocontent'>
+                            <input type='text' id="inputSignIn" placeholder='Email' onChange={(e) => setValues({ ...values, email: e.target.value})}></input> 
+                            <input type='password' id="inputSignIn" placeholder='Password' onChange={(e) => setValues({ ...values, password: e.target.value})}></input>
                             <div className='buttonSignin'>
-                                <button id='signin'>SIGN IN</button> 
+                                <button type='submit' id='signin'>SIGN IN</button> 
                             </div>
                         </form>
                     </div>
