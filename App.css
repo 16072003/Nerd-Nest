@@ -1,0 +1,1751 @@
+.admin-page .country {
+  margin: 0 1px 11px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .rectangle-5 {
+  border-radius: 10px;
+  width: 152px;
+  height: 48px;
+}
+.admin-page .rectangle-4 {
+  border-radius: 10px;
+  margin-right: 5px;
+  width: 56px;
+  height: 48px;
+}
+.admin-page .group {
+  position: absolute;
+  left: 41px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  width: 9.4px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.admin-page .vector {
+  width: 9.4px;
+  height: 6.3px;
+}
+.admin-page .vector-1 {
+  width: 63px;
+  height: 60px;
+}
+.admin-page .container {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .group-40 {
+  border-radius: 10px;
+  border: 4px solid #E0E0E0;
+  background: #98DFD9;
+  position: relative;
+  margin: 3px 22px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 56px;
+  width: 619px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .room-status {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.admin-page .customer-details {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.admin-page .name {
+  margin-right: 11.5px;
+  width: 54px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .check-in {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .check-out {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .room-no {
+  margin-right: 22.7px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .room-type {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .gender {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.admin-page .line-4 {
+  background: #E0E0E0;
+  margin: 0 0 18px 3px;
+  width: 616px;
+  height: 0px;
+}
+.admin-page .john-doe {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-5 {
+  background: #E0E0E0;
+  margin: 0 48px 28px 26px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-1 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-1 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-1 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-1 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-1 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-6 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-2 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-2 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-2 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-2 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-2 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-7 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-3 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-3 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-3 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-3 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-3 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-3 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-8 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-4 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-4 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-4 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-4 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-4 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-4 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-9 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-5 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-5 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-5 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-5 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-5 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-5 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-10 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-6 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-6 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-6 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-6 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-6 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-6 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-11 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-7 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-7 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-7 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-7 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-7 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-7 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-12 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-8 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-8 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-8 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-8 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-8 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-8 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-13 {
+  background: #E0E0E0;
+  margin: 0 44px 20px 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .john-doe-9 {
+  margin: 4px 8.5px 13px 0;
+  display: inline-block;
+  width: 63px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .m-9 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .am-9 {
+  margin-right: 28.3px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .pm-9 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .container-9 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .bed-9 {
+  margin: 4px 0 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.admin-page .line-14 {
+  background: #E0E0E0;
+  margin: 0 44px 0 30px;
+  width: 545px;
+  height: 0px;
+}
+.admin-page .group-31 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-32 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-12 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-13 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-33 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-15 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-34 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-17 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-35 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-18 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-19 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-36 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-20 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-21 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-37 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-22 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-23 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-38 {
+  border-radius: 8px;
+  margin: 0 19px 20.8px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-24 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-25 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .group-39 {
+  border-radius: 8px;
+  margin: 0 19px 0 17px;
+  display: flex;
+  flex-direction: row;
+  width: 322px;
+  box-sizing: border-box;
+}
+.admin-page .container-26 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-27 {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.admin-page .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-2 {
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.admin-page .container-3 {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  width: 1415px;
+  box-sizing: border-box;
+}
+.admin-page .container-4 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .untitled-11 {
+  background: url('assets/images/Untitled11.png') 50% / cover no-repeat;
+  margin: 20px 85px 0 0;
+  width: 328px;
+  height: 95px;
+}
+.admin-page .admin-dashboard {
+  margin: 16px 26px 16px 0;
+  display: inline-block;
+  width: 387px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+.admin-page .container-8 {
+  border-radius: 8px 8px 0 0;
+  background: #088395;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  padding: 26px 0.2px 26px 0;
+  width: 619px;
+  box-sizing: border-box;
+}
+.admin-page .container-9 {
+  border-radius: 42px;
+  background: #088395;
+  position: relative;
+  display: flex;
+  padding: 8px 10px 16px 11px;
+  width: 84px;
+  height: 84px;
+  box-sizing: border-box;
+}
+.admin-page .container-10 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-11 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-12 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-13 {
+  margin: 0 47.4px 18px 17.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-15 {
+  width: 184px;
+  height: 48.1px;
+}
+.admin-page .container-16 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-17 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-18 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-19 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-20 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 0 68px;
+  background: #98DFD9;
+  position: relative;
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 37px 12px 0;
+  width: 1002px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-21 {
+  margin-bottom: 367.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.admin-page .container-22 {
+  border-radius: 8px 8px 0 0;
+  background: #088395;
+  position: relative;
+  margin-bottom: 11.2px;
+  display: flex;
+  padding: 25.6px 25px 28.6px 0;
+  width: 382px;
+  box-sizing: border-box;
+}
+.admin-page .container-23 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-24 {
+  margin: 0 19.8px 16px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 581.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-25 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .rectangle-51 {
+  border-radius: 10px;
+  position: absolute;
+  top: 175.1px;
+  right: 17px;
+  width: 385px;
+  height: 634.9px;
+}
+.admin-page .booking {
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.admin-page .group-7 {
+  border-radius: 10px;
+  margin: 0 20px 13.5px 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .full-name {
+  margin-bottom: 6.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .rectangle-41 {
+  border-radius: 10px;
+  margin-bottom: 18.4px;
+  width: 346px;
+  height: 48.1px;
+}
+.admin-page .group-8 {
+  border-radius: 10px;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.admin-page .gender-1 {
+  margin-bottom: 6.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .rectangle-42 {
+  border-radius: 10px;
+  width: 94px;
+  height: 48.1px;
+}
+.admin-page .group-9 {
+  border-radius: 10px;
+  margin-bottom: 0.1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.admin-page .phone-number {
+  margin-bottom: 6.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .rectangle-43 {
+  border-radius: 10px;
+  width: 176px;
+  height: 48px;
+}
+.admin-page .group-1 {
+  position: absolute;
+  right: 7.6px;
+  bottom: 20.9px;
+  display: flex;
+  width: 9.4px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.admin-page .vector-2 {
+  width: 9.4px;
+  height: 6.3px;
+}
+.admin-page .group-10 {
+  margin: 4px 0 0.8px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.admin-page .room-type-1 {
+  margin-bottom: 6.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .check-in-1 {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .group-15 {
+  border-radius: 10px;
+  margin: 0 3px 17.9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .group-16 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .group-91 {
+  border-radius: 10px;
+  position: relative;
+  margin-right: 12px;
+  padding: 11.2px 15px 16.8px 15px;
+  width: 237px;
+  box-sizing: border-box;
+}
+.admin-page .rectangle-45 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.admin-page .group-81 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11.2px 6.6px 16.8px 11px;
+  width: 94px;
+  box-sizing: border-box;
+}
+.admin-page .rectangle-46 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.admin-page .dd-mm-yyyy {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .reshot-icon-calendar-mph-3-d-7-xwkj-1 {
+  position: absolute;
+  right: 107px;
+  bottom: 0px;
+  width: 45px;
+  height: 49.1px;
+}
+.admin-page .container-28 {
+  position: relative;
+  margin-right: 10px;
+  width: 41px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .group-2 {
+  position: relative;
+  margin: 9.2px 0 4.5px 0;
+  display: flex;
+  width: 9.4px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.admin-page .vector-4 {
+  width: 9.4px;
+  height: 6.3px;
+}
+.admin-page .group-17 {
+  position: relative;
+  margin: 0 23px 8.2px 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.admin-page .group-18 {
+  margin: 0 23px 20.4px 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .check-out-1 {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .group-161 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .group-92 {
+  border-radius: 10px;
+  position: relative;
+  margin-right: 12px;
+  padding: 11.2px 15px 16.8px 15px;
+  width: 237px;
+  box-sizing: border-box;
+}
+.admin-page .rectangle-47 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.admin-page .dd-mm-yyyy-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .group-82 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11.2px 6.6px 16.8px 11px;
+  width: 94px;
+  box-sizing: border-box;
+}
+.admin-page .rectangle-48 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.admin-page .container-29 {
+  position: relative;
+  margin-right: 10px;
+  width: 41px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.admin-page .group-3 {
+  position: relative;
+  margin: 9.2px 0 4.5px 0;
+  display: flex;
+  width: 9.4px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.admin-page .vector-5 {
+  width: 9.4px;
+  height: 6.3px;
+}
+.admin-page .rectangle-52 {
+  border-radius: 10px;
+  position: absolute;
+  top: 741.5px;
+  right: 37px;
+  width: 346px;
+  height: 48.1px;
+}
+.admin-page .confirm-booking {
+  margin-right: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Kiwi Maru';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.admin-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 43px 25px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.admin-page .container-26 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-27 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-28 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-29 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-30 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-31 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-32 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-33 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-34 {
+  position: relative;
+  display: flex;
+  width: 237px;
+  box-sizing: border-box;
+}
+.admin-page .container-35 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-36 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-37 {
+  border-radius: 8px;
+  border: 4px solid #00FF44;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 13.4px 0.3px 15.5px 0;
+  width: 155px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-38 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-39 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-40 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-41 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-42 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-43 {
+  position: relative;
+  margin-right: 17px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-44 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.admin-page .container-45 {
+  border-radius: 8px 8px 0 0;
+  background: #088395;
+  position: relative;
+  margin-bottom: 10.7px;
+  display: flex;
+  padding: 27px 12.8px 25px 0;
+  width: 358px;
+  box-sizing: border-box;
+}
+.admin-page .container-46 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-47 {
+  border-radius: 8px;
+  border: 4px solid #E0E0E0;
+  background: #98DFD9;
+  position: relative;
+  margin: 3px 17px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 13.2px;
+  width: 358px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-48 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-49 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.admin-page .container-50 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-51 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-52 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.admin-page .container-53 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 237px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.admin-page .container-54 {
+  margin: 0 43.4px 18px 21.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 554.1px;
+  box-sizing: border-box;
+}
+.admin-page .container-55 {
+  border-radius: 8px;
+  border: 3px solid #FF0000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 11px 1px 0;
+  display: flex;
+  padding: 13.4px 1.7px 15.5px 0;
+  width: 156px;
+  height: fit-content;
+  box-sizing: border-box;
+}
